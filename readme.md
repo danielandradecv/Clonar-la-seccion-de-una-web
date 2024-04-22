@@ -10,7 +10,7 @@ La web original es [pagina web original](https://fitnesssaludable.com/postparo-s
 **En la parte responsive de la copia hice unas mejoras por ejemplo:**
 - cuando la imagen cambia a modo responsive *la mano que apunta a la izquierda ahora apunta arriba*
 
-![](https://github.com/danielandradecv/Clonar-la-seccion-de-una-web/blob/main/img/8.jpg)
+![](https://github.com/danielandradecv/Clonar-la-seccion-de-una-web/blob/main/img/8.0.jpg)
 
 - cuando se hace el cambio a modo responsive en la web original se daña el contenido y se rompe un poco la web, *con el cambio que le hice en el modo responsive no daña la apariencia de la web*
 
