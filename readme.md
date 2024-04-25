@@ -1,7 +1,8 @@
 
 **Copiando secciones de una web**
 
-La web original es [pagina web original](https://fitnesssaludable.com/postparo-saludable/)
+La web original es [pagina web original](https://fitnesssaludable.com/postparo-saludable/) 👉
+ [La copia que replique](https://danielandradecv.github.io/Clonar-la-seccion-de-una-web/)
 
 **Lo que hice fue realizar una copia exacta de la seccion de atencion! de la pag web con pequeños cambios y mejoras, utilizando html y css**
 
